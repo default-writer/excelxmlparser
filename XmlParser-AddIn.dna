@@ -1,0 +1,4 @@
+<DnaLibrary Name="Xml Parser Add-In" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="XmlParser.dll" ExplicitExports="false" LoadFromBytes="true" Pack="true" />
+  <Image Name="icon" Path="logo.png" Pack="true" /> 
+</DnaLibrary>
